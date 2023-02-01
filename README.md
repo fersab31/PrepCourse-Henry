@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Es un repositorio de prueba del modulo de prepcourse de henry
+Este es un proyecto de prueba de como crear un repositorio de githubd a este terminal
